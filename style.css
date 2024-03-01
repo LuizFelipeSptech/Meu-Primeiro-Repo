@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.card {
+    width: 500px;
+    height: fit-content;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: aliceblue;
+    margin: 10px;
+}
+
+.card_imagem {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.card_imagem img {
+    width: 70%;
+    height: 70%;
+    border-radius: 100%;
+}
+
+.card-titulo {
+    font-size: 35px;
+}
+
+.card-descicao {
+    font-weight: bold;
+    color: brown;
+}
+
+.nome {
+    color: red;
+}
